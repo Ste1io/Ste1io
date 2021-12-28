@@ -1,6 +1,14 @@
-### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/4989b4ce-2c70-4d64-973b-026b8a54c4fe.svg?style=for-the-badge)](https://wakatime.com/@4989b4ce-2c70-4d64-973b-026b8a54c4fe)
 
 <!--
+[![wakatime](https://wakatime.com/badge/user/4989b4ce-2c70-4d64-973b-026b8a54c4fe.svg?style=for-the-badge)](https://wakatime.com/@4989b4ce-2c70-4d64-973b-026b8a54c4fe)
+[![wakatime](https://wakatime.com/badge/user/4989b4ce-2c70-4d64-973b-026b8a54c4fe.svg?style=flat-square)](https://wakatime.com/@4989b4ce-2c70-4d64-973b-026b8a54c4fe)
+[![wakatime](https://wakatime.com/badge/user/4989b4ce-2c70-4d64-973b-026b8a54c4fe.svg?style=flat)](https://wakatime.com/@4989b4ce-2c70-4d64-973b-026b8a54c4fe)
+[![wakatime](https://wakatime.com/badge/user/4989b4ce-2c70-4d64-973b-026b8a54c4fe.svg?style=social)](https://wakatime.com/@4989b4ce-2c70-4d64-973b-026b8a54c4fe)
+
+[![wakatime](https://wakatime.com/badge/user/4989b4ce-2c70-4d64-973b-026b8a54c4fe.svg?style=default)](https://wakatime.com/@4989b4ce-2c70-4d64-973b-026b8a54c4fe)
+[![wakatime](https://wakatime.com/badge/user/4989b4ce-2c70-4d64-973b-026b8a54c4fe.svg?style=plastic)](https://wakatime.com/@4989b4ce-2c70-4d64-973b-026b8a54c4fe)
+
 **StelioKontosXBL/StelioKontosXBL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
